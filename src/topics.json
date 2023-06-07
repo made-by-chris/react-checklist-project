@@ -1,0 +1,62 @@
+[
+    {
+        "concept": "JSX",
+        "description": "JavaScript XML (JSX) is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript.",
+        "officialResource": "https://react.dev/learn/writing-markup-with-jsx"
+    },
+    {
+        "concept": "Components",
+        "description": "Components are the building blocks of React applications. They are reusable and encapsulate the logic and UI.",
+        "officialResource": "https://react.dev/learn/your-first-component"
+    },
+    {
+        "concept": "State",
+        "description": "State is an object that holds data that can change over time and triggers re-rendering of the component when updated.",
+        "officialResource": "https://react.dev/learn/state-a-components-memory"
+    },
+    {
+        "concept": "Props",
+        "description": "Props (short for properties) are used to pass data from a parent component to a child component.",
+        "officialResource": "https://react.dev/learn/passing-props-to-a-component"
+    },
+    {
+        "concept": "Event Handling",
+        "description": "React uses synthetic events to handle user interactions, such as clicking a button or submitting a form.",
+        "officialResource": "https://react.dev/learn/responding-to-events"
+    },
+    {
+        "concept": "Conditional Rendering",
+        "description": "Conditional rendering allows you to show different UI components based on certain conditions.",
+        "officialResource": "https://react.dev/learn/conditional-rendering"
+    },
+    {
+        "concept": "Lists and Keys",
+        "description": "React provides a convenient way to render lists of data and assigns unique keys to each item for efficient updates.",
+        "officialResource": "https://react.dev/learn/rendering-lists"
+    },
+    {
+        "concept": "Context",
+        "description": "Context allows you to pass data through the component tree without having to pass props manually at each level.",
+        "officialResource": "https://react.dev/learn/passing-data-deeply-with-context"
+    },
+    {
+        "concept": "Hooks",
+        "description": "Hooks are a feature introduced in React 16.8 that allow you to use state and other React features in functional components.",
+        "officialResource": "https://react.dev/reference/react"
+    },
+    {
+        "concept": "React Router",
+        "description": "React Router is a popular library for handling routing in React applications.",
+        "officialResource": "https://reactrouter.com/"
+    },
+    {
+        "concept": "Redux",
+        "description": "Redux is a predictable state container for JavaScript apps. It provides a centralized state management solution for React applications.",
+        "officialResource": "https://redux.js.org/introduction/getting-started"
+    },
+    {
+        "concept": "Testing",
+        "description": "React applications can be tested using various testing frameworks and libraries, such as Jest and React Testing Library.",
+        "officialResource": "https://reactjs.org/docs/testing.html"
+    }
+]
